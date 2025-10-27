@@ -10,9 +10,9 @@ namespace Challenge_GitBranches_MergeConflicts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-
-            Console.ReadKey();
+            Console.WriteLine("Hello World!");
+            Console.ReadKey(true);
+            Console.WriteLine("Hello World 2!");
         }
     }
 }
