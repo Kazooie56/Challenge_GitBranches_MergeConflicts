@@ -10,6 +10,7 @@ namespace Challenge_GitBranches_MergeConflicts
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
